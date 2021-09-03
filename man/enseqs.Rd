@@ -2,7 +2,7 @@
 % Please edit documentation in R/MINTplates.R
 \name{enseqs}
 \alias{enseqs}
-\title{Encode multiple sequences}
+\title{Encode sequences}
 \usage{
 enseqs(sequences, prefix = "")
 }

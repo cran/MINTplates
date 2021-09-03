@@ -2,7 +2,7 @@
 % Please edit documentation in R/MINTplates.R
 \name{deseqs}
 \alias{deseqs}
-\title{Decode multiple license-plates}
+\title{Decode license-plates}
 \usage{
 deseqs(plates)
 }
